@@ -58,15 +58,20 @@ padding: 50px 0 20px;
   text-align: left;
 }
 
-.top-cloud{
+.top-nerd{
   position:absolute;
   right: 300px;
   top:40px;
+  width: 250px;
 }
-.bottom-cloud{
+.bottom-thinking{
   position: absolute;
   left: 250px;
   bottom: 300px;
+  width: 250px;
+}
+.middle-code{
+      width: 400px;
 }
 
 a{
