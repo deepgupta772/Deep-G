@@ -60,15 +60,15 @@ padding: 50px 0 20px;
 
 .top-nerd{
   position:absolute;
-  right: 300px;
+  right: 150px;
   top:40px;
-  width: 250px;
+  width: 200px;
 }
 .bottom-thinking{
   position: absolute;
-  left: 250px;
+  left: 150px;
   bottom: 300px;
-  width: 250px;
+  width: 200px;
 }
 .middle-code{
       width: 400px;
